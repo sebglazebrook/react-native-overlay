@@ -46,7 +46,7 @@ var Overlay = React.createClass({
           borderWidth: 0,
           backgroundColor: 'transparent',
         },
-      });
+      })
     }
   },
 
